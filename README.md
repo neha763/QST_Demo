@@ -1,3 +1,4 @@
 # QST_Demo
 <br>
-Author : Neha
+Author : Neha Ambekar
+
